@@ -1,0 +1,37 @@
+[
+    {
+        "id": "P001",
+        "nombre": "Maria Vanegas",
+        "edad": 24,
+        "sexo": "F",
+        "usa_correccion": true
+    },
+    {
+        "id": "P002",
+        "nombre": "Juan Mejia",
+        "edad": 31,
+        "sexo": "M",
+        "usa_correccion": false
+    },
+    {
+        "id": "P003",
+        "nombre": "Naomy Melgar",
+        "edad": 19,
+        "sexo": "F",
+        "usa_correccion": true
+    },
+    {
+        "id": "P004",
+        "nombre": "Thomas Rueda",
+        "edad": 67,
+        "sexo": "M",
+        "usa_correccion": true
+    },
+    {
+        "id": "P005",
+        "nombre": "Isabella Castro",
+        "edad": 42,
+        "sexo": "F",
+        "usa_correccion": false
+    }
+]
