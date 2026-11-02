@@ -2,7 +2,7 @@
 
 ## 1. Descripción del proyecto
 
-OPTOGESTIÓN es una aplicación de consola desarrollada en Python para el Centro de Atención Optométrica. Su finalidad es facilitar el registro, la consulta y la organización de la información de los pacientes atendidos durante las jornadas de atención visual.
+OPTOGESTIÓN es una aplicación desarrollada en Python para el Centro de Atención Optométrica. Su finalidad es facilitar el registro, la consulta y la organización de la información de los pacientes atendidos durante las jornadas de atención visual.
 
 Este proyecto fue desarrollado como trabajo final de la asignatura **Programación I**.
 
